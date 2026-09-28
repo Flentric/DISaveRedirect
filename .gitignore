@@ -1,0 +1,8 @@
+*.asi
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+*.7z
+*.tmp
